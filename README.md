@@ -40,6 +40,8 @@ Habit and productivity apps rarely adapt to how different people focus. Self Pro
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Today view**
 
 ![Today view](assets/03-app.png)
